@@ -1,0 +1,17 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(œ¿æÝ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÙØ¤Þýÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÍßÍ†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¨×ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®•¿ãÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òµÎÕ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å½óŽ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ñ³”
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(®•¿ãÿÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(®ŸÚË
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ž”ÁÕ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ßìÞ’þÿÿÿÿ

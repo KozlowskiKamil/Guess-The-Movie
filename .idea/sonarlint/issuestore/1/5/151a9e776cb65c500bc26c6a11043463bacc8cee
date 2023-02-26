@@ -1,0 +1,17 @@
+
+l
+java:S1104"QMake movie a static final constant or non-public and provide accessors if needed.(Üàú›ÿÿÿÿÿ
+g
+java:S1104"QMake leter a static final constant or non-public and provide accessors if needed.(öƒ…™
+F
+java:S1444"+Make this "public static movie" field final(Üàú›ÿÿÿÿÿ
+A
+java:S1444"+Make this "public static leter" field final(öƒ…™
+P
+java:S1118":Add a private constructor to hide the implicit public one.(†¡ğ«
+D
+java:S1172".Remove this unused method parameter "replace".(ùÎ’Õ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÈÏ©Óùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç°çİıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(†ÂÆ+8Å¸ÍÛè0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(‘ãü8Æ¸ÍÛè0

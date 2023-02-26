@@ -1,0 +1,12 @@
+
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÍßÍ†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þ¢ß€øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ€àþ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µŠì©üÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(•ï¡Ž8í¹Üè0
+V	java:S125"<This block of commented-out lines of code should be removed.(´œº¼üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ø™ÉU
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(û™÷Çþÿÿÿÿ8íÒ±Üè0
