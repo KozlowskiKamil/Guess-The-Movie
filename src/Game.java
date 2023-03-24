@@ -4,7 +4,7 @@ import java.io.*;
 public class Game {
     public static void main(String[] args) throws Exception {
         Scanner s = new Scanner(new File("movies.txt"));
-        ArrayList<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<>();
         while (s.hasNext()) {
             list.add(s.nextLine());
         }

@@ -26,7 +26,7 @@ public class Main extends Operations {
         int i = 10;
         while (i > 0) {
             System.out.println("\nMasz: " + i + " prób na odgadnięcie filmu");
-            if (!inputChar(scanner, guess, replace)) {
+            if (!inputChar(scanner, guess)) {
                 i--;
             }
             if (underscor(guess, replace)) {

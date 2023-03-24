@@ -6,7 +6,7 @@ public class Operations {
 
     public static char leter;
 
-    public static boolean inputChar(Scanner scanner, List<Character> guess, String replace) {
+    public static boolean inputChar(Scanner scanner, List<Character> guess) {
         System.out.println("\nWprowadź literę do odgadnięcia filmu");
         String input = scanner.nextLine();
         guess.add(input.charAt(0));
